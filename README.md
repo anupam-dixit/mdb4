@@ -50,7 +50,11 @@ Bottom Inclusion
   <!-- MDB core JavaScript -->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/js/mdb.min.js"></script>
   <!-- Your custom scripts (optional) -->
-  <script type="text/javascript"></script>
+  <script type="text/javascript">
+    $( document ).ready(function() {
+    new WOW().init();
+    });
+  </script>
   <!-- Font Awesome 6-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/web/files/images/fa-pro-6.0.0-alpha3/pro/css/all.min.css">
 ``` 
