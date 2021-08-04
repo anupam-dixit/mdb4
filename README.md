@@ -26,9 +26,9 @@ Plain Bottom inclusion:
   <script type="text/javascript"></script>
 ``` 
 
-###JsDelivr
+## JsDelivr
 Top inclusion
-''' html
+``` html
 <!-- MDB icon -->
   <link rel="icon" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/img/mdb-favicon.ico" type="image/x-icon">
   <!-- Bootstrap core CSS -->
@@ -37,4 +37,20 @@ Top inclusion
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/css/mdb.min.css">
   <!-- Your custom styles (optional) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/css/style.css">
-'''
+``` 
+
+Bottom Inclusion
+``` html
+<!-- jQuery -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/js/jquery.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/js/mdb.min.js"></script>
+  <!-- Your custom scripts (optional) -->
+  <script type="text/javascript"></script>
+  <!-- Font Awesome 6-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/web/files/images/fa-pro-6.0.0-alpha3/pro/css/all.min.css">
+``` 
