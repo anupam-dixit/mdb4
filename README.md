@@ -25,3 +25,16 @@ Plain Bottom inclusion:
   <!-- Your custom scripts (optional) -->
   <script type="text/javascript"></script>
 ``` 
+
+###JsDelivr
+Top inclusion
+''' html
+<!-- MDB icon -->
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/img/mdb-favicon.ico" type="image/x-icon">
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/css/bootstrap.min.css">
+  <!-- Material Design Bootstrap -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/css/mdb.min.css">
+  <!-- Your custom styles (optional) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/mdb4/pro_4.19.1/css/style.css">
+'''
