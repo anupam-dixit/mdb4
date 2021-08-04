@@ -1,7 +1,7 @@
-v 4.19.19
+## v 4.19.19
 Plain top inclusion:
 ``` html
-<!-- icon -->
+  <!-- icon -->
   <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon">
   <!-- Google Fonts Roboto -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
@@ -13,7 +13,7 @@ Plain top inclusion:
   <link rel="stylesheet" href="css/style.css">
 ``` 
 Plain Bottom inclusion:
-
+``` html
   <!-- jQuery -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <!-- Bootstrap tooltips -->
@@ -24,3 +24,4 @@ Plain Bottom inclusion:
   <script type="text/javascript" src="js/mdb.min.js"></script>
   <!-- Your custom scripts (optional) -->
   <script type="text/javascript"></script>
+``` 
