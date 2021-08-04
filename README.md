@@ -31,6 +31,8 @@ Bottom Inclusion
     new WOW().init();
     });
   </script>
+  <!-- Lottie Files-->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
   <!-- Font Awesome 6-->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anupam-dixit/web/files/images/fa-pro-6.0.0-alpha3/pro/css/all.min.css">
 ``` 
