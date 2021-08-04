@@ -1,6 +1,6 @@
 v 4.19.19
 Plain top inclusion:
-<Code>
+``` html
 <!-- icon -->
   <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon">
   <!-- Google Fonts Roboto -->
@@ -11,7 +11,7 @@ Plain top inclusion:
   <link rel="stylesheet" href="css/mdb.min.css">
   <!-- Your custom styles (optional) -->
   <link rel="stylesheet" href="css/style.css">
-</Code>
+``` 
 Plain Bottom inclusion:
 
   <!-- jQuery -->
